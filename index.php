@@ -4,5 +4,5 @@ $pager = new Pager($shop_data, 5, $page);
 echo $pager->getPrevLink().$pager->getNaviLink().$pager->getNextLink();
 ?>
 
-
+test
 
